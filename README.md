@@ -1,5 +1,5 @@
 # VLNS
-Repository including the data and algorithms developed during my thesis on Large Neighborhood Search on the full truckload vehicle routing 
+Repository including the data and algorithms developed during my thesis on Large Neighborhood Search on the full truckload Vehicle Routing Problem
 
 ## Needed packages:
     pandas
